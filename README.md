@@ -1,10 +1,10 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Alfinas%20Sandi&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Native%20Engineer&descAlignY=60&descSize=20" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Alfinas%20Sandi&fontSize=75&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Native%20Engineer&descAlignY=60&descSize=20" />
 </div>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Hey+%F0%9F%91%8B+Welcome+to+my+Digital+Space!;I'm+a+Full+Stack+Developer+%F0%9F%9A%80;Building+Scalable+Cloud-Native+Solutions+%E2%98%81%EF%B8%8F;Kubernetes+%7C+Docker+%7C+Microservices+Expert+%F0%9F%94%A5" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Hey+%F0%9F%91%8B+Welcome+to+my+Digital+Space!;I'm+a+Full+Stack+Developer+%F0%9F%9A%80;Building+Scalable+Cloud-Native+Solutions+%E2%98%81%EF%B8%8F;Kubernetes+%7C+Docker+%7C+Microservices+Expert+%F0%9F%94%A5" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -198,8 +198,8 @@ const alfinas = {
 
 <br><br>
 
-### 📧 **Email:** your.email@example.com
-### 🌐 **Portfolio:** [alfinas.dev](https://your-portfolio.com)
+### 📧 **Email:** alfinas@bogorcreativa.co.id
+### 🌐 **Portfolio:** [alfinas.bogorcreativa.co.id](https://bogorcreativa.co.id)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
